@@ -1,5 +1,0 @@
-#Javascript Basics
-
-##Variables
-
-\*
